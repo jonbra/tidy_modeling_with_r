@@ -1,2 +1,3 @@
-# tidy_modeling_with_r
-Trying to follow the book Tidy Modeling with R
+# Tidy modeling with R
+
+Repository for reading and learning the book [**Tidy Modeling with R**](https://www.tmwr.org/index.html).
